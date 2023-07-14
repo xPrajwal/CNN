@@ -1,2 +1,2 @@
 # Comprehensive Analysis of the Impact of Pre-Processing Techniques on the Performance of a CNN-based Facial Age Estimation Model
-[![N|Solid]([https://cldup.com/dTxpPi9lDf.thumb.png](https://scholarworks.calstate.edu/assets/logos/northridge-1ac9bf5209fac42f13bf08636210f2bc62a598c68722a2f6d17b24133bdbec94.png)https://scholarworks.calstate.edu/assets/logos/northridge-1ac9bf5209fac42f13bf08636210f2bc62a598c68722a2f6d17b24133bdbec94.png)](https://nodesource.com/products/nsolid)
+[![alt text](https://www.csun.edu/ua/2017logos/csun.png)](https://github.com/xPrajwal/CNN/edit/main/README.md)
